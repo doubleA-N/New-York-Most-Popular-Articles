@@ -1,0 +1,47 @@
+.App {
+    background-color: #ffffff;
+    /* color: #000000; */
+    /* text-align: center; */
+    font-family: 'Playfair Display', serif;
+}
+
+.navigation {
+    background-color: #000000;
+    font-family: 'Playfair Display', serif;
+    color: #ffffff !important;
+}
+
+.title {
+    font-weight: bold;
+    font-style: italic;
+    text-align: center;
+}
+
+.link {
+    color: #000000
+}
+
+.article {
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+.published {
+    margin-top: 30px;
+}
+
+.update {
+    float: right;
+}
+
+.img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    text-align: center;
+}
+
+.date {
+    font-weight: bold;
+}
