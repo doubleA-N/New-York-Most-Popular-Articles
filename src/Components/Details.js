@@ -52,7 +52,7 @@ const Details = _ => {
                 {state.data.section}
             </Badge> {' '}
         <Row>
-        <Link to={state.data.url} >Read more at {state.data.url}</Link>
+        <a href={state.data.url} >Read more at {state.data.url}</a>
         </Row>
         
         
