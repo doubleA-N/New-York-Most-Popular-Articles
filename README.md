@@ -3,6 +3,9 @@
 This project was created by Thidarat Chaichana (e-mail: thidarat.ch@mail.kmutt.ac.th).
 It is a simple react responsive application to show most popular aricles in New York Time API.
 
+## Easy Available
+You can see this react project on https://ny-most-popular-articles-6f3a2.web.app/
+
 ## Available Scripts
 
 In the project directory, you can run:
