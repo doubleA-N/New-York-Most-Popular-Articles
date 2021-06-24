@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# New York - Most Popular Articles
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was created by Thidarat Chaichana. It is a simple react responsive application to show most popular aricles in New York Time API.
 
 ## Available Scripts
 
